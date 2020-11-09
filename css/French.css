@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+}
+
+nav, footer{
+    background: linear-gradient(to right, rgb(82, 33, 13), rgb(95, 88, 28));
+}
+
+.dropdown{
+    border-radius: 0.3rem;
+}
+
+.btn-icon{
+    width: 100%;
+    height: auto;
+}
+
+#login-btn{
+    background: whitesmoke;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+}
+
+main {
+    min-height: 100%;
+    padding-top: 8rem;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    color: black;
+}
